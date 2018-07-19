@@ -1,0 +1,15 @@
+{root vegetables,citrus fruit}[174] => {other vegetables}[1902]  || confidence = 0.5862068965517242
+{other vegetables,butter}[197] => {whole milk}[2513]  || confidence = 0.5736040609137055
+{yogurt,tropical fruit}[288] => {whole milk}[2513]  || confidence = 0.517361111111111
+{root vegetables,tropical fruit}[207] => {whole milk}[2513]  || confidence = 0.570048309178744
+{root vegetables,tropical fruit}[207] => {other vegetables}[1902]  || confidence = 0.5845410628019324
+{yogurt,other vegetables}[427] => {whole milk}[2513]  || confidence = 0.5128805620608899
+{root vegetables,yogurt}[254] => {whole milk}[2513]  || confidence = 0.562992125984252
+{yogurt,whipped/sour cream}[204] => {whole milk}[2513]  || confidence = 0.5245098039215685
+{curd,yogurt}[170] => {whole milk}[2513]  || confidence = 0.5823529411764706
+{root vegetables,yogurt}[254] => {other vegetables}[1902]  || confidence = 0.5
+{root vegetables,rolls/buns}[239] => {whole milk}[2513]  || confidence = 0.5230125523012552
+{other vegetables,pip fruit}[257] => {whole milk}[2513]  || confidence = 0.5175097276264591
+{other vegetables,whipped/sour cream}[284] => {whole milk}[2513]  || confidence = 0.5070422535211268
+{other vegetables,domestic eggs}[219] => {whole milk}[2513]  || confidence = 0.5525114155251142
+{root vegetables,rolls/buns}[239] => {other vegetables}[1902]  || confidence = 0.502092050209205
